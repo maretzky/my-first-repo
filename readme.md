@@ -9,7 +9,7 @@ A local *habitation* and a **name**.
 
 - This is
 - an unordered
-§- list
+- list
 
 1. This is
 2. an ordered
